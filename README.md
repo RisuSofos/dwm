@@ -1,7 +1,10 @@
 # My build of [dwm](https://dwm.suckless.org)
 
+## Requirements
+xorg-server xorg-xinit libx11 libxinerama libxft webkit2gtk
+
 ## Installation
-for the noobd who need this:
+for the noobs who need this:
 ```sh
 git clone https://github.com/RisuSofos/dwm
 cd dwm
